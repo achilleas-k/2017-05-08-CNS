@@ -1,4 +1,4 @@
-# Intermediate Python Features
+# Python gotchas and landmines
 
 Presentation slides and code samples for the Monday CNS seminar.
 
